@@ -18,14 +18,15 @@
 <br/>  
 
 
-![l1mb's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false)      ![l1mb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=l1mb&theme=tokyonight&hide_border=false)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" /> 
+<p/> 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="l1mb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1mb&theme=tokyonight&hide_border=false" alt="l1mb" /> 
+<p/> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false" alt="l1mb" />
 <p/>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
