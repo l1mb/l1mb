@@ -21,13 +21,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" /> 
 <p/> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1mb&theme=tokyonight&hide_border=false" alt="l1mb" /> 
-<p/> 
+https://www.codewars.com/users/krlch/badges/large
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false" alt="l1mb" />
 <p/>
-
+<a href="[https://reactjs.org/](https://www.codewars.com/users/krlch/)" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
