@@ -5,6 +5,9 @@
 
 ### <div align="center"><span>I'm Jean K, a full-time full-stack  developer 👨‍💻 </span> 
 </div>  
+<div align="center">
+  <img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" />
+</div>
 
 
 <p align="center">
@@ -81,7 +84,6 @@
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=l1mb&&style=flat-square" align="center" />
-  <img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" />
 </div>  
   
 
