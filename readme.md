@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">I'm Jean K, a full-time full-stack  developer 👨‍💻  <a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
+### <div align="center"><span>I'm Jean K, a full-time full-stack  developer 👨‍💻 </span> <a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
 </div>  
 
 
