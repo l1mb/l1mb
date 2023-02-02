@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
+</div>  
+
+
+### <div align="center">I'm Jean K, a full-time full-stack  developer 👨‍💻</div>  
 
 
 <p align="center">
