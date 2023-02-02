@@ -1,31 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Jean K, a full-time full-stack  developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Saving App](https://github.com/l1mb/BetterSave)  
-  
-
-- 🌱 I'm currently learning microservices  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" /> 
 <p/> 
-https://www.codewars.com/users/krlch/badges/large
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false" alt="l1mb" />
-<p/>
-<a href="[https://reactjs.org/](https://www.codewars.com/users/krlch/)" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
+
+<a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
