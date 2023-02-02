@@ -7,9 +7,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" /> <a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" />
 <p/> 
 
+##  <a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
 
 
 ## My Skill Set  
