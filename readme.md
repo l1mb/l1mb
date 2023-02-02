@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=l1mb&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="l1mb" />
 <p/> 
 
-## Codewars 
-<a href="https://www.codewars.com/users/krlch/" target="_blank"><img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" /></a>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -84,6 +81,7 @@
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=l1mb&&style=flat-square" align="center" />
+  <img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" />
 </div>  
   
 
