@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center"><span>I'm Jean K, a full-time full-stack  developer 👨‍💻 </span> 
+### <div align="center"><span>I'm Siarhei Siarheyeu, a full-time full-stack  developer 👨‍💻 </span> 
 </div>  
 <div align="center">
   <img style="margin: 10px" src="https://www.codewars.com/users/krlch/badges/large" alt="React" height="25" />
